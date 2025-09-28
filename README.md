@@ -2,7 +2,7 @@
 
 ## 📌 Giới thiệu
 
-Dự án **Cà Phê Việt Nam** được xây dựng dưới dạng **MOC (Map of Content)** trong Obsidian, nhằm tổng hợp kiến thức đa chiều về cà phê Việt Nam: từ lịch sử, văn hóa, đến công thức pha chế và ngành công nghiệp xuất khẩu.
+Dự án [[MOC Cà Phê Việt Nam]] được xây dựng dưới dạng **MOC (Map of Content)** trong Obsidian, nhằm tổng hợp kiến thức đa chiều về cà phê Việt Nam: từ lịch sử, văn hóa, đến công thức pha chế và ngành công nghiệp xuất khẩu.
 Mục tiêu là tạo nên một hệ thống ghi chú dễ truy cập, trực quan và giàu liên kết nội bộ.
 
 ## 🗂️ Cấu trúc chính
